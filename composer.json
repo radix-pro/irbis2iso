@@ -1,0 +1,16 @@
+{
+    "name": "vendor/txt2iso",
+    "description": "Конвертор формата IRBIS TXT в MARC ISO",
+    "authors": [
+        {
+            "name": "Rodion Kulakov",
+            "email": "rkulakov@kpfu.ru"
+        }
+    ],
+    "require": {
+        "pear/file_marc": "dev-master",
+        "diversen/parse-argv": "dev-master"
+    },
+    "require-dev": {
+    }
+}
