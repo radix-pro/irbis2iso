@@ -12,7 +12,7 @@ Usage: convert.php [-fiet] input.file [output.file]
    
    -e=utf8|cp1251: encoding of input file. Default: utf8
    
-   -t=<num bytes>: truncate fields longer than num bytes. Default: 700
+   -t=numbytes: truncate fields longer than num bytes. Default: 700
    
 Example:
 
